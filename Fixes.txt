@@ -1,0 +1,18 @@
+ДОРОБИТИ:
+	1. charecter_content(SLIDER)
+	2. news-block(ADD-NEWS)
+	3. Add galerry
+	4. 
+	5. 
+	6. 
+	7. 
+	8. 
+	9. 
+
+ЗРОБЛЕНО:
+	1. shop_windows(ДОДАТИ ВIКНА, BACKGROUND)
+	2. era(FIX-PHOTO)
+	3. sponsors-block(FIX-LIST)
+	4. footer(ADD)
+	5. join-block(BACKGROUND)
+	6.
